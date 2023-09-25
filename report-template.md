@@ -1,8 +1,11 @@
 ## Overview of the Analysis
 * Explain the purpose of the analysis.
+  
 The purpose of the analysis is to use various techniques to build a model that can identify the creditworthiness of the borrowers. 
 
 * Explain what financial information the data was on, and what you needed to predict.
+
+  
 The financial information provided are loan size,interest rate,borrower income,debt to income,number of accounts,derogatory marks,total debt,loan status, all these variables used to predict the creditworthiness of the borrower. 
 
 ## Results
